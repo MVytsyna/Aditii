@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Lobster Regular';
+    src: url('../fonts/Lobster.eot');
+    src: url('../fonts/Lobster.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lobster.woff') format('woff'),
+    url('../fonts/Lobster.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('../fonts/BebasNeueBook.eot');
+    src: url('../fonts/BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueBook.woff') format('woff'),
+    url('../fonts/') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('../fonts/OpenSans-Light.eot');
+    src: url('../fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans-Light.woff') format('woff'),
+    url('../fonts/') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
